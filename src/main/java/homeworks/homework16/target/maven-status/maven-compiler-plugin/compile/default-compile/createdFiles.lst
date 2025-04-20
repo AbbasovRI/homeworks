@@ -1,0 +1,5 @@
+Main.class
+repositories\UsersRepository.class
+repositories\UsersRepositoryTest.class
+model\User.class
+repositories\UsersRepositoryMemoryImpl.class
