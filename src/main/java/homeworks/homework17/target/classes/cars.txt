@@ -1,0 +1,5 @@
+Toyota,Corolla,2020,150,8,7,9
+Ferrari,488 Pista,2019,720,10,6,8
+Lamborghini,Aventador SVJ,2021,770,12,5,7
+Tesla,Model X,2022,400,6,9,10
+Porsche,Cayenne Turbo,2023,550,7,8,9
