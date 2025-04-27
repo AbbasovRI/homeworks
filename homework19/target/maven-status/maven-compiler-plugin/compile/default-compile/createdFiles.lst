@@ -1,0 +1,8 @@
+springaopdemo\aspect\LoggingAspect.class
+springaopdemo\aspect\ValidationAspect.class
+springaopdemo\service\ProductService.class
+springaopdemo\SpringAopDemoApplication.class
+springaopdemo\repository\ProductRepository.class
+springaopdemo\aspect\PerformanceAspect.class
+springaopdemo\model\Product.class
+springaopdemo\controller\ProductController.class
